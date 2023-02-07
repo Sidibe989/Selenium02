@@ -7,7 +7,7 @@ public class seleniumProva {
 		int Unmero1=0;
 		int Unmero2=0;
 		double Somma =0;
-		
+		// sommare due numeri
 		Somma= Unmero1 + Unmero2;
 		if(Somma !=0) {
 			System.out.print(Somma);
